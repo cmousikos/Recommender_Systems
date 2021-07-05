@@ -1,2 +1,2 @@
 # Recommender_Systems
-Diploma Thesis
+Development of various implementations of recommender systems
